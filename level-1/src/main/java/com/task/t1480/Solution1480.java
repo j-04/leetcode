@@ -1,6 +1,6 @@
 package com.task.t1480;
 
-public class Solution {
+public class Solution1480 {
     public int[] runningSum(int[] nums) {
         // for (int index = 1; index < nums.length; index++) {
         //     nums[index] += nums[index - 1];
