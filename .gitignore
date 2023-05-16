@@ -1,2 +1,3 @@
-*/target/*
-level-1/src/main/java/com/task/App.java
+target/*
+src/main/java/com/task/App.java
+.idea

@@ -1,6 +1,6 @@
 package com.task.t21;
 
-public class Solution21 {
+public class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null && list2 == null) {
             return null;

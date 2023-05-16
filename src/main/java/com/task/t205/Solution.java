@@ -2,7 +2,7 @@ package com.task.t205;
 
 import java.util.HashMap;
 
-public class Solution205 {
+public class Solution {
     public boolean isIsomorphic(String s, String t) {
         var maps = new HashMap<Character, Character>();
         var mapt = new HashMap<Character, Character>();

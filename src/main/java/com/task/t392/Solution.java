@@ -1,6 +1,6 @@
 package com.task.t392;
 
-public class Solution392 {
+public class Solution {
     public boolean isSubsequence(String s, String t) {
         int i = 0;
         int j = 0;
